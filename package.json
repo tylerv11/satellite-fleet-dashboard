@@ -12,7 +12,9 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "recharts": "^2.10.0"
+    "react-globe.gl": "^2.38.0",
+    "recharts": "^2.10.0",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@types/react": "^18.2.0",

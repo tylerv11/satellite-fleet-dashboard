@@ -11,6 +11,10 @@ export type Satellite = {
   powerWatts: number
   status: 'Operational' | 'Degraded' | 'End of Life'
   launchVehicle: string
+  latitude: number
+  longitude: number
+  altitudeKm: number
+  altitudeNorm: number
 }
 
 export type Filters = {

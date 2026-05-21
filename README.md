@@ -6,7 +6,7 @@
 ![Recharts](https://img.shields.io/badge/Recharts-2.10-22c55e)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-CDN-06B6D4?logo=tailwindcss&logoColor=white)
 
-A professional operational fleet dashboard tracking 50 satellite assets across orbit classes, mission purposes, and operational states. The data model mirrors schemas used in genuine fleet management systems — covering mission purpose, orbital classification, lifecycle parameters, and real-time status — making this a practical reference for operational data modeling, space situational awareness tooling, and executive-level fleet reporting. Multi-dimensional filtering, a stacked mission-purpose distribution chart, and a fully sortable inventory table give analysts an immediate read on fleet health without leaving the browser.
+A professional operational fleet dashboard tracking 50 satellite assets across orbit classes, mission purposes, and operational states. The data model mirrors schemas used in genuine fleet management systems, covering mission purpose, orbital classification, lifecycle parameters, and real-time status, making this a practical reference for operational data modeling, space situational awareness tooling, and executive-level fleet reporting. Multi-dimensional filtering, a stacked mission-purpose distribution chart, and a fully sortable inventory table give analysts an immediate read on fleet health without leaving the browser.
 
 ## Screenshot
 
